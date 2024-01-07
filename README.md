@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ata</h1>
-<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<h1 align="center">Data Scientist & Machine Learning Engineer</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ataozarslan" alt="ataozarslan" /></a> </p>
 
@@ -62,7 +65,14 @@
 </div>  
 </td></table>
 
-<br>  
+<br/>
+
+# My Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ataozarslan&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="ataozarslan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ataozarslan&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="ataozarslan" /></p>
+
+<br/>
 
 # Connect & Follow Me Via  
 <div align="center">
@@ -78,11 +88,6 @@
 </div>  
   
 <br/>  
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ataozarslan&show_icons=true&locale=en" alt="ataozarslan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ataozarslan&show_icons=true&locale=en&layout=compact" alt="ataozarslan" /></p>
-
-<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ataozarslan&label=Profile%20views&color=0e75b6&style=flat" alt="ataozarslan" align="center" />
