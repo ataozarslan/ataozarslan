@@ -8,7 +8,7 @@
 
 💬 Ask me about **Python, Data Analysis, Data Science & Machine Learning**
 
-# My Skill Set
+# 💻 My Skill Set
 
 <table><tr><td valign="top" width="30%">
 
@@ -67,14 +67,16 @@
 
 <br/>
 
-# My Stats
+# 📈 My Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ataozarslan&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="ataozarslan" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ataozarslan&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="ataozarslan" /></p>
 
 <br/>
+<br/>
+<br/>
 
-# Connect & Follow Me Via  
+# 📬 Connect & Follow Me  
 <div align="center">
   
 <a href="https://linkedin.com/in/ataozarslan" target="_blank">
