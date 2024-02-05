@@ -31,7 +31,7 @@
 <a href="https://radimrehurek.com/gensim/" target="_blank"><img style="margin: 10px" src="https://radimrehurek.com/gensim/_images/gensim_logo_positive_complete_tb.png" alt="Gensim" height="50" /></a>
 <a href="https://textblob.readthedocs.io/en/dev/" target="_blank"><img style="margin: 10px" src="https://diamond-thumbnails.s3.us-west-2.amazonaws.com/thinkbigcms/Product/logo/0643d8c9-2d6f-4305-8733-cd96b8557578.png?hash=350304961fe86c1de39bf5fbc025f1ea" alt="TextBlob" height="50" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark" height="50" /></a>
-<a href="https://mlflow.org/" target="_blank"><img style="margin: 10px" src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" alt="MLflow" height="45" /></a>
+<a href="https://mlflow.org/" target="_blank"><img style="margin: 10px" src="https://mlflow.org/img/mlflow-black.svg" alt="MLflow" height="45" /></a>
 <a href="https://shap.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/38404461/65588818-7734b500-df88-11e9-907c-a0bc0c0fdfc1.png" alt="Shap" height="40" /></a>
 <a href="https://geopandas.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="GeoPandas" height="45" /></a>
 </div>
