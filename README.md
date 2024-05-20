@@ -34,8 +34,8 @@
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark" height="50" /></a>
 <a href="https://mlflow.org/" target="_blank"><img style="margin: 10px" src="https://mlflow.org/img/mlflow-black.svg" alt="MLflow" height="45" /></a>
 <a href="https://shap.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/38404461/65588818-7734b500-df88-11e9-907c-a0bc0c0fdfc1.png" alt="Shap" height="40" /></a>
-<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://chunte-hfba.static.hf.space/images/Brand%20Logos/hf-logo-with-white-title.png" alt="HuggingFace" height="45" /></a>
-<a href="https://geopandas.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="GeoPandas" height="45" /></a>
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://chunte-hfba.static.hf.space/images/Brand%20Logos/hf-logo-with-white-title.png" alt="HuggingFace" height="40" /></a>
+<a href="https://geopandas.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="GeoPandas" height="40" /></a>
 </div>
 </td><td valign="top" width="5%">
 
