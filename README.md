@@ -49,7 +49,7 @@
 
 ### Google Cloud  
 <div align="center">
-<a href="https://cloud.google.com/bigquery/" target="_blank"><img style="margin: 10px" src="https://semtr.com/blog/wp-content/uploads/2020/12/big.png" alt="BigQuery" height="50" /></a>
+<a href="https://cloud.google.com/bigquery/" target="_blank"><img style="margin: 10px" src="https://coinmuhendisi.com/blog/wp-content/uploads/2023/09/Google-cloud-bigquery-11-blockchain-avi-ekledi.png" alt="BigQuery" height="50" /></a>
 <a href="https://cloud.google.com/vertex-ai/" target="_blank"><img style="margin: 10px" src="https://static.wixstatic.com/media/ae2a18_da5e51a6483b46a4add6e7b5f44c4ec2~mv2.jpg/v1/fill/w_640,h_430,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ae2a18_da5e51a6483b46a4add6e7b5f44c4ec2~mv2.jpg" alt="Vertex AI" height="50" /></a>
 <a href="https://cloud.google.com/sql/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1200/0*sbUQaEbEVSXuZDs3.png" alt="Cloud SQL" height="50" /></a>
 <a href="https://cloud.google.com/dataflow/" target="_blank"><img style="margin: 10px" src="https://devio2023-media.developers.io/wp-content/uploads/2020/10/gcp-eyecatch-dataflow_1200x630.png" alt="Dataflow" height="50" /></a>
